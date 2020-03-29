@@ -1,0 +1,14 @@
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Aliquota.Domain.deps.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Aliquota.Domain.runtimeconfig.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Aliquota.Domain.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Aliquota.Domain.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Aliquota.Domain.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Calculo.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\bin\Debug\netcoreapp2.1\Calculo.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain\obj\Debug\netcoreapp2.1\Aliquota.Domain.csproj.CopyComplete

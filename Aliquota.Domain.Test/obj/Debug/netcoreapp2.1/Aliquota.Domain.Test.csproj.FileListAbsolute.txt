@@ -1,0 +1,17 @@
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Aliquota.Domain.Test.deps.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Aliquota.Domain.Test.runtimeconfig.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Aliquota.Domain.Test.runtimeconfig.dev.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Aliquota.Domain.Test.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Aliquota.Domain.Test.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Calculo.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\bin\Debug\netcoreapp2.1\Calculo.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.csproj.CopyComplete
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Aliquota.Domain.Test\obj\Debug\netcoreapp2.1\Aliquota.Domain.Test.pdb

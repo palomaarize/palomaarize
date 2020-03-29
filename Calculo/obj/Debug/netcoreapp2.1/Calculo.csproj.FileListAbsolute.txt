@@ -1,0 +1,9 @@
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\bin\Debug\netcoreapp2.1\Calculo.deps.json
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\bin\Debug\netcoreapp2.1\Calculo.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\bin\Debug\netcoreapp2.1\Calculo.pdb
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.csprojAssemblyReference.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.dll
+C:\Users\Maria\Desktop\Aliquota.Domain\Calculo\obj\Debug\netcoreapp2.1\Calculo.pdb
