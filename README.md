@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Kotlin
 - :notebook: I am a computer engineering student at the <a href="https://www.ufba.br/"> <b>Federal University of Bahia</b></a>. 
 - :checkered_flag: Additional fact: madly fan of Formula 1
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/paloma-arize/"><img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" width="20"/> </a><a href="mailto:palomaarize0811@gmail.com"><img src="https://img.icons8.com/ios-filled/50/000000/gmail-login.png" width="20"/></a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/paloma-arize/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="20"/> </a><a href="mailto:palomaarize0811@gmail.com"><img src="https://img.icons8.com/color-glass/48/000000/gmail-login.png" width="20"/> </a>
 
 ### 🔧 Technologies & Tools
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -28,12 +28,12 @@
 
 ### &#x1f4c8; GitHub Stats
 <p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaarize&hide=tsql,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-</a>
-
 <a href="https://github.com/palomaarize/github-readme-stats" title="Go to Source">
   <img align="center" width=449 src="https://github-readme-stats.vercel.app/api?username=palomaarize&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+</a>
+      
+<a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palomaarize&hide=tsql,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </a>
 </p>
 
